@@ -37,7 +37,7 @@
     - 로그인이 되어 있는 경우 : README 홈 화면
 - SNS(카카오톡, 구글, 페이스북) 로그인 기능은 구현되어 있지 않습니다.
 
-| 초기화면 |
+| 메인 화면 |
 |----------|
 ![chrome-capture-2024-9-2 (1)](https://github.com/user-attachments/assets/7c1e9e2d-0d32-49c2-b417-2fa25c9351c7)
 
