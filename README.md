@@ -42,6 +42,13 @@
 
 <br>
 
+#### [메인 화면:카테고리 필터]
+- 숙소 카테고리를 클릭하여 메인 화면에 해당하는 숙소 정보들을 출력합니다.
+
+[EchoTrip.webm](https://github.com/user-attachments/assets/1460b5d8-0e6c-418d-bb1e-b0d0e1df22ea)
+
+
+
 
 <br>
 
