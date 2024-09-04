@@ -1,4 +1,4 @@
-# 게스트하우스 웹 사이트
+[EchoTrip_4.webm](https://github.com/user-attachments/assets/cfc7107b-58b7-423d-990d-cda3d1f16769)# 게스트하우스 웹 사이트
 
 <br>
 
@@ -47,7 +47,29 @@
 
 [EchoTrip.webm](https://github.com/user-attachments/assets/1460b5d8-0e6c-418d-bb1e-b0d0e1df22ea)
 
+<br>
 
+#### [메인 화면:국가 및 지역 검색]
+- 검색창을 통하여 여행하고자 하는 국가 명 및 지역을 검색하여 해당 지역에 위치하는 숙소를 검색할 수 있습니다.
+- 검색창과 카테고리 선택바는 헤더부분에 위치해있기때문에 페이지 스크롤 시 고정되어 위치합니다.
+
+[EchoTrip_2.webm](https://github.com/user-attachments/assets/9199c127-6712-4872-a5e8-b9189af08f26)
+
+<br>
+
+### [상세 페이지]
+- 메인 화면에서 상세 정보 조회를 원하는 숙소를 클릭시 해당 숙소의 상세 페이지로 이동합니다.
+- 해당 페이지에서는 메인 이미지외 서브 이미지, 숙소 정보, 가격, 리뷰, 위치 등을 보여줍니다.
+- 타겟층에 알맞고 올바른 데이터 분석을 통해 숙소 선정에 도움이 되는 나라별 예약률과 성별 선호도를 차트를 통해 보여주고 있습니다.
+
+[EchoTrip_3.webm](https://github.com/user-attachments/assets/852cf6e6-f392-4479-9243-6d2922ba76b0)
+
+<br>
+
+#### [상세 페이지:예약 마감]
+- 예약이 불가능할 상황일 경우 메인 화면에서 가격대신 "예약 마감"이 표시되고 상세 페이지에서는 "알림 받기"를 통해 핸들링합니다.
+
+[EchoTrip_4.webm](https://github.com/user-attachments/assets/088f38b4-eec6-48de-ab7c-869f16a69014)
 
 
 <br>
